@@ -66,14 +66,3 @@
 
 
 ---
-
-## 📫 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/deepak-sharma-8aa93015b">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
-  </a>
-  <a href="mailto:sdeepaksharma15@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email%20Me-red?style=flat-square&logo=gmail" />
-  </a>
-</p>
