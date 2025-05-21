@@ -11,11 +11,6 @@
   </a>
 </p>
 
-<!-- HEADER BANNER -->
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGpva3p3Z21mZWhwOGFlYnhpcmJuZjk3MmNra3JjcWRzZnRzdnRzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qdf1QyvxipVh6/giphy.gif" alt="Kakashi Banner" width="100%" />
-</p>
-
 <h1 align="center">Hi there! 👋 I'm <span style="color:#f97316;">Deepak Sharma</span></h1>
 
 <p align="center">
@@ -60,6 +55,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="GCP" width="40" height="40"/>
+</p>
+
+
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGpva3p3Z21mZWhwOGFlYnhpcmJuZjk3MmNra3JjcWRzZnRzdnRzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qdf1QyvxipVh6/giphy.gif" alt="Kakashi Banner" width="100%" />
 </p>
 
 
