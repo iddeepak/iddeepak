@@ -17,10 +17,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=16F7E4&center=true&vCenter=true&width=500&lines=Java+Developer+%7C+System+Design+Nerd;Clean+Code+Evangelist+%7C+DSA+Daily;Open+Source+Contributor+%7C+Backend+Builder" alt="Typing intro" />
 </p>
 
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=iddeepak.iddeepak&left_color=gray&right_color=blue" alt="visitor badge"/>
-</p>
-
 ---
 
 ## 🧠 About Me
