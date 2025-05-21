@@ -1,25 +1,40 @@
-<!-- HEADER: Avatar & Bio -->
-<h1 align="center">Hey there, I’m Deepak 👋</h1>
+<!-- PROFILE BADGES -->
 <p align="center">
-  🌍 I’m from India 🇮🇳<br>
-  💼 I’m active on open-source libraries and algorithm challenges<br>
-  📫 How to reach me: 
-  <a href="https://www.linkedin.com/in/deepak-sharma-8aa93015b/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://github.com/iddeepak">
+    <img src="https://img.shields.io/badge/GitHub-iddeepak-181717?style=flat&logo=github" alt="@iddeepak"/>
+  </a>
+  <a href="https://linkedin.com/in/deepak-sharma-8aa93015b">
+    <img src="https://img.shields.io/badge/LinkedIn-Deepak%20Sharma-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:deepak@example.com">
+    <img src="https://img.shields.io/badge/Email-deepak@example.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
----
-
-<!-- LANGUAGES & TOOLS ICONS -->
+<!-- BANNER -->
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
-  <!-- add more as you like -->
+  <img src="https://media.giphy.com/media/VxbvpfaTTo3le/giphy.gif" alt="Deepak Sharma Banner" width="800"/>
+</p>
+
+# Welcome 😺
+
+I’m **Deepak Sharma**, Developer Relations Engineer at Hemi network.
+
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=iddeepak.iddeepak" alt="visitors"/>
 </p>
 
 ---
 
+## Summary 👋
+
+- 🚀 I’m currently working on Deep Learning research projects.  
+- 🤝 Looking to collaborate on research papers in GANs, Swarm Intelligence, Biomedical Imaging, Federated Learning, Adversarial ML.  
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/deepak-sharma-8aa93015b) • [Email](mailto:deepak@example.com)
+
+---
+
+## Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
