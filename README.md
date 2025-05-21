@@ -37,22 +37,22 @@
 <ul>
   <li>
     <a href="https://github.com/tchiotludo/akhq/pull/2249" target="_blank">
-      🔧 <strong>AKHQ</strong> – Fixed Integer overflow issue for retention config by using <code>Long</code>
+      🔧 <strong>AKHQ</strong> – Fix: Support Large Retention Values in Topic Config <code>Long</code>
     </a>
   </li>
   <li>
     <a href="https://github.com/openrewrite/rewrite-static-analysis/pull/560" target="_blank">
-      🧹 <strong>OpenRewrite</strong> – Added a static analysis rule to remove unused method parameters
+      🧹 <strong>OpenRewrite</strong> – RemoveUnusedParams
     </a>
   </li>
   <li>
     <a href="https://github.com/dapr/java-sdk/pull/1381" target="_blank">
-      📦 <strong>Dapr Java SDK</strong> – Improved PubSub builder API for better usability and clarity
+      📦 <strong>Dapr Java SDK</strong> – Fix : Typo in code comments
     </a>
   </li>
   <li>
     <a href="https://github.com/dapr/java-sdk/pull/1370" target="_blank">
-      🧪 <strong>Dapr Java SDK</strong> – Added unit tests for reactive APIs to improve test coverage
+      🧪 <strong>Dapr Java SDK</strong> – Fix component spec parsing
     </a>
   </li>
 </ul>
