@@ -57,12 +57,35 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="GCP" width="40" height="40"/>
 </p>
 
+---
 
-<!-- HEADER BANNER -->
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGpva3p3Z21mZWhwOGFlYnhpcmJuZjk3MmNra3JjcWRzZnRzdnRzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qdf1QyvxipVh6/giphy.gif" alt="Kakashi Banner" width="100%" />
+## 🌍 Open Source Contributions
+
+<p align="left">
+  I actively contribute to open-source projects in the Java ecosystem to improve code quality, performance, and developer productivity.
 </p>
 
-
+<ul>
+  <li>
+    <a href="https://github.com/tchiotludo/akhq/pull/2249" target="_blank">
+      🔧 <strong>AKHQ</strong> – Fixed Integer overflow issue for retention config by using <code>Long</code>
+    </a>
+  </li>
+  <li>
+    <a href="https://github.com/openrewrite/rewrite-static-analysis/pull/560" target="_blank">
+      🧹 <strong>OpenRewrite</strong> – Added a static analysis rule to remove unused method parameters
+    </a>
+  </li>
+  <li>
+    <a href="https://github.com/dapr/java-sdk/pull/1381" target="_blank">
+      📦 <strong>Dapr Java SDK</strong> – Improved PubSub builder API for better usability and clarity
+    </a>
+  </li>
+  <li>
+    <a href="https://github.com/dapr/java-sdk/pull/1370" target="_blank">
+      🧪 <strong>Dapr Java SDK</strong> – Added unit tests for reactive APIs to improve test coverage
+    </a>
+  </li>
+</ul>
 
 ---
