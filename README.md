@@ -53,15 +53,6 @@
 
 ---
 
-## 🎬 Dev Life
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360"/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDh5eGR4Y2E0MnJzNjB2MGF6eDZ0eG9ncTU2dTIzZDB5ZGppc3kyZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1GEATImIxEXVR79Dhk/giphy.gif" width="360"/>
-</p>
-
----
-
 ## 📫 Connect with Me
 
 <p align="center">
