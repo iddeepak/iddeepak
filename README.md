@@ -13,7 +13,7 @@
 
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHh1b2RsMnQ5cXEyZnBuaG16YnRsbDV1bjJ2cmJ5NnlvbDFoYWZqOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fGGV7FeScq2s/giphy.gif" alt="Kakashi Banner" width="100%" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGpva3p3Z21mZWhwOGFlYnhpcmJuZjk3MmNra3JjcWRzZnRzdnRzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qdf1QyvxipVh6/giphy.gif" alt="Kakashi Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there! 👋 I'm <span style="color:#f97316;">Deepak Sharma</span></h1>
