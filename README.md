@@ -53,15 +53,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iddeepak&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iddeepak&theme=radical&hide_border=true" width="48%" />
-</p>
-
----
-
 ## 🎬 Dev Life
 
 <p align="center">
