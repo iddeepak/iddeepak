@@ -1,8 +1,4 @@
 <!-- HEADER: Avatar & Bio -->
-<p align="center">
-  <img width="150" src="https://github.com/iddeepak.png" alt="avatar" />
-</p>
-
 <h1 align="center">Hey there, I’m Deepak 👋</h1>
 <p align="center">
   🌍 I’m from India 🇮🇳<br>
