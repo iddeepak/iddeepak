@@ -55,6 +55,11 @@
       🧪 <strong>Dapr Java SDK</strong> – Fix component spec parsing
     </a>
   </li>
+    <li>
+    <a href="https://github.com/diffplug/spotless/pull/2517" target="_blank">
+      🔧 <strong>diffplug/spotless</strong> – Remove wildcard imports
+    </a>
+  </li>
 </ul>
 
 ---
