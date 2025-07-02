@@ -60,6 +60,11 @@
       🔧 <strong>diffplug/spotless</strong> – Remove wildcard imports
     </a>
   </li>
+      <li>
+    <a href="https://github.com/google/google-java-format/pull/1266" target="_blank">
+      🔧 <strong>google/google-java-format</strong> – Remove unused imports
+    </a>
+  </li>
 </ul>
 
 ---
